@@ -124,8 +124,8 @@ STATIC_URL = '/static/'
 MEDIA_ROOT = os.path.join(BASE_DIR, 'media')
 MEDIA_URL = '/media/'
 
-PAYSTACK_PUBLIC_KEY = 'pk_test_62399842272919b1506abbc5a8b932f86de820f7'
-PAYSTACK_SECRET_KEY = 'sk_test_097f815a91409fcf203619a34819afd7f58b3698'
+PAYSTACK_PUBLIC_KEY = '' # Enter yours here
+PAYSTACK_SECRET_KEY = '' # Enter yours here
 
 
 CRISPY_TEMPLATE_PACK = 'bootstrap4'
